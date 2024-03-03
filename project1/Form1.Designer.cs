@@ -54,6 +54,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(355, 30);
             this.textBox1.TabIndex = 1;
+            this.textBox1.Text = "Nama_Praktikan";
             // 
             // button1
             // 
